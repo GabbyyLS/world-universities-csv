@@ -3788,6 +3788,7 @@ IT,University of Milan - Bicocca,http://www.unimib.it/
 IT,University of Modena,http://www.casa.unimo.it/
 IT,University of Molise,http://www.unimol.it/
 IT,University of Naples Federico II,http://www.unina.it/
+IT,University of Naples "L'Orientale",http://www.unior.it/
 IT,University of Padua,http://www.unipd.it/
 IT,University of Palermo,http://www.unipa.it/
 IT,University of Parma,http://www.unipr.it/
@@ -4464,6 +4465,7 @@ KE,Zetech College,http://www.zetechcollege.com/
 KG,American University of Central Asia,http://www.auca.kg/
 KG,Asian Medical Institute,http://www.asmi.edu.kg/
 KG,Bishkek Humanities University,http://www.bhu.kg/
+KG,I.K. Akhunbaev Kyrgyz State Medical Academy,http://www.kgma.kg/
 KG,International Ataturk Alatoo University,http://www.iaau.edu.kg/
 KG,International University of Kyrgyzstan,http://www.iuk.kg/
 KG,Jalalabad State University Kyrgyzstan,http://www.jasu.edu.kg/
@@ -6238,11 +6240,13 @@ RU,Mendeleev Russian University of Chemical Technology,http://www.muctr.edu.ru/
 RU,Modern Institute of Managament,http://miom.org/
 RU,Modern University for the Humanities,http://www.muh.ru/
 RU,Mordovian State University,http://www.mrsu.ru/
+RU,Moscow Aviation Institute (National Research University),http://mai.ru/
 RU,Moscow External University of the Humanities,http://www.chat.ru/~megu/
 RU,Moscow Institute of Physics and Technology,http://www.mipt.ru/
 RU,Moscow International Higher Business School (MIRBIS),http://www.mirbis.ru/
 RU,Moscow P. I. Tchaikovsky Conservatory,http://www.mosconsv.ru/
 RU,Moscow Power Engineering Institute (Technical University),http://www.mpei.ac.ru/
+RU,Moscow psychological and social University,http://www.mpsu.ru/
 RU,Moscow State Academy of Applied Biotechnology,http://www.msaab.ru/
 RU,Moscow State Automobile and Road Technical University,http://www.madi.ru/
 RU,Moscow State Industrial University,http://www.msiu.ru/
@@ -6250,6 +6254,7 @@ RU,Moscow State Institute of International Relations MFA Russia (MGIMO-Universit
 RU,"Moscow State Institute of Radiotechnics, Electronics and Automation (Technical University)",http://www.mirea.ru/
 RU,Moscow State Institute of Steel and Alloys,http://www.misis.ru/
 RU,Moscow State Linguistic University,http://www.linguanet.ru/
+RU,Moscow State Pedagogical University,http://xn--c1arjr.xn--p1ai/
 RU,Moscow State Technical University of Civil Aviation,http://www.mstuca.ru/
 RU,Moscow State Textile University A.N. Kosygin,http://www.msta.ac.ru/
 RU,Moscow State University,http://www.msu.ru/
@@ -6265,8 +6270,12 @@ RU,Moscow State University of Geodesy and Cartography,http://www.miigaik.ru/
 RU,Moscow State University of Railway Transport,http://www.miit.ru/
 RU,Moscow State University of Technology (Stankin),http://www.stankin.ru/
 RU,Moscow Technical University of Informatics and Communication,http://www.mtuci.ru/
+RU,Moscow Technological Institute,http://mti.edu.ru/
+RU,Moscow Technological University (MIREA),https://www.mirea.ru/
 RU,Moscow University Touro,http://www.touro.ru/
+RU,Murmansk Arctic State University,http://www.mspu.edu.ru/
 RU,Murmansk State Technical University,http://www.mstu.edu.ru/
+RU,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),https://mephi.ru/
 RU,National Research University of Electronic Technology,http://www.miet.ru/
 RU,Nayanova University,http://www.nayanova.edu/
 RU,Nevsky Institute of Language and Culture,http://www.nilc.spb.ru/
@@ -6279,6 +6288,7 @@ RU,Nizhny Novgorod State University,http://www.unn.ac.ru/
 RU,Northern State Medical University,http://www.nsmu.ru/
 RU,North Ossetian State University,http://www.nosu.ru/
 RU,North-West State Technical University,http://www.nwpi.ru/
+RU,Northeastern State University,http://www.svgu.ru/
 RU,Novgorod State University,http://www.novsu.ac.ru/
 RU,Novosibirsk State Academy of Economics and Mangement,http://cit.drbit.com.ru/
 RU,Novosibirsk State Agricultural University,http://www.nsau.edu.ru/
@@ -6296,6 +6306,7 @@ RU,Omsk State University,http://www.univer.omsk.su/
 RU,Orenburg State University,http://www.osu.ru/
 RU,Oriental University,http://www.orun.ru/
 RU,Penza State University,http://www.pnzgu.ru/
+RU,Peter the Great St. Petersburg Polytechnic University,http://www.spbstu.ru/
 RU,People' s Friendship University of Russia,http://www.pfu.edu.ru/
 RU,Perm State Academy of Agriculture,http://www.pstu.ac.ru/
 RU,Perm State Medical Academy,http://www.psma.ru/
@@ -6313,6 +6324,7 @@ RU,Rostov State University,http://www.rsu.ru/
 RU,Russian Academy of Arts,http://www.rah.ru/
 RU,Russian Academy of Theatre Arts,http://www.gitis.net/
 RU,"Russian Customs Academy, Vladivostok Branch",http://www.vfrta.ru/
+RU,Russian Presidential Academy of National Economy and Public Administration,http://www.ranepa.ru/
 RU,Russian State Geological Prospecting University ,http://www.mgri-rggru.ru/
 RU,Russian State Hydrometeorological University,http://www.rshu.ru/
 RU,Russian State Medical University,http://www.rsmu.ru/
@@ -6343,6 +6355,7 @@ RU,Siberian State University of Telecommunications and Informatics,http://www.ne
 RU,Skrjabin Moscow State Academy of Veterinary Medicine and Biotechnology,http://www.mgavm.ru/
 RU,Smolensk Humanitarian University,http://shu.smolensk.su/
 RU,Smolensk State Medical Academy,http://www.sgma.info/
+RU,Smolensk State University,http://www.smolgu.ru/
 RU,Smolny University,http://www.smolny-un.spb.ru/
 RU,Southern Ural State University,http://www.tu-chel.ac.ru/
 RU,State Maritine Academy,http://www.gma.ru/
@@ -6368,11 +6381,9 @@ RU,St. Petersburg State Medical Academy,http://www.mechnik.spb.ru/
 RU,St. Petersburg State Mining Institute (Technical University),http://www.spmi.edu.ru/
 RU,St. Petersburg State Mountain Institut,http://www.gorny-ins.ru/
 RU,St. Petersburg State Pediatric Medical Academy,http://www.gpma.ru/
-RU,St. Petersburg State Polytechnical University,http://www.spbstu.ru/
 RU,St. Petersburg State Technical University,http://www.unilib.neva.ru/
 RU,St. Petersburg State Technological University of Plant Polymers,http://www.gturp.spb.ru/
 RU,St. Petersburg State Theatre Arts Academy,http://www.tart.spb.ru/
-RU,St. Petersburg State University,http://www.spbu.ru/
 RU,St. Petersburg State University of Aerospace Instrumentation,http://www.suai.ru/
 RU,St. Petersburg State University of Architecture and Civil Engineering,http://www.spbgasu.ru/
 RU,St. Petersburg State University of Civil Aviation,http://www.academiaga.ru/
@@ -6384,8 +6395,9 @@ RU,"St. Petersburg State University of Information Technologies, Mechanics and O
 RU,St. Petersburg State University of Technology and Design,http://www.sutd.ru/
 RU,St. Petersburg State University of Telecommunication,http://www.sut.ru/
 RU,St. Petersburg State University of Waterway Communications,http://www.spbuwc.ru/
+RU,St. Petersburg University,http://spbu.ru/
 RU,Surgut State University,http://www.surgu.wsnet.ru/
-RU,Syktyvkar State University,http://ssu.komi.com:8101/
+RU,Syktyvkar State University,http://syktsu.ru/
 RU,Taganrog State Pedagogical Institute,http://www.tgpi.ttn.ru/
 RU,Taganrog State University of Radioengineering,http://www.tsure.ru/
 RU,Tambov State Technical University,http://www.tstu.ru/
@@ -6404,7 +6416,7 @@ RU,Tver State University,http://university.tversu.ru/
 RU,Tyumen State Agricultural Academy,http://www.tgsha.ru/
 RU,Tyumen State University,http://www.tsu.tmn.ru/
 RU,Tyumen State University of Gas and Oil,http://www.tsogu.ru/
-RU,Udmurt State University,http://www.uni.udm.ru/
+RU,Udmurt State University,http://udsu.ru/
 RU,Ufa State Aviation Technical University,http://www.ugatu.ac.ru/
 RU,Ufa State Institute of Arts,http://www.bashedu.ru/vuz/ugii_e.htm
 RU,Ufa State Petroleum Technological University,http://www.rusoil.net/
@@ -7019,6 +7031,7 @@ TZ,University of Dar Es Salaam,http://www.udsm.ac.tz/
 TZ,University of Dodoma,http://www.udom.ac.tz/
 UA,Alfred Nobel University of Economics and Law ,http://www.duep.edu/
 UA,Bila Cerkva State Agrarian University,http://www.btsau.kiev.ua/
+UA,Bohdan Khmelnytsky National University of Cherkasy,http://www.cdu.edu.ua/
 UA,Chernivci National University,http://www.chnu.cv.ua/
 UA,Crimea State Medical University,http://www.crsmu.com/
 UA,Dneprodzerzhinsk State Technical University,http://www.dstu.dp.ua/
@@ -7037,10 +7050,11 @@ UA,Kharkiv State Technical University of Construction and Architecture,http://ww
 UA,Kharkiv State Transport Technical University,http://www.khadi.kharkov.ua/
 UA,Kherson State University,http://www.university.kherson.ua/
 UA,Khmelnitsky National University,http://www.tup.km.ua/
-UA,Kiev National Economic University Named after Vadym Hetman,http://www.kneu.edu.ua/
-UA,Kiev National University of Construction and Architecture,http://www.knuba.edu.ua/
-UA,Kiev School Of Economics,http://www.kse.org.ua/
-UA,Kiev Slavonic University,http://www.ksu.edu.ua/
+UA,Kyiv National Economic University Named after Vadym Hetman,http://www.kneu.edu.ua/
+UA,Kyiv National Linguistic University,http://www.knlu.kiev.ua/
+UA,Kyiv National University of Construction and Architecture,http://www.knuba.edu.ua/
+UA,Kyiv School Of Economics,http://www.kse.org.ua/
+UA,Kyiv Slavonic University,http://www.ksu.edu.ua/
 UA,KROK Economics and Law University,http://www.krok.edu.ua/
 UA,Luhansk State Medical University,http://www.lsmu.com/
 UA,Luhansk Taras Shevchenko National Pedagogical University,http://www.lgpu.lg.ua/
@@ -7815,6 +7829,7 @@ US,Hope College,http://www.hope.edu/
 US,Hope International University,http://www.hiu.edu/
 US,Houghton College,http://www.houghton.edu/
 US,Houston Baptist University,http://www.hbu.edu/
+US,Houston Community College,http://www.hccs.edu/
 US,Howard Payne University,http://www.hputx.edu/
 US,Howard University,http://www.howard.edu/
 US,Humboldt State University,http://www.humboldt.edu/
